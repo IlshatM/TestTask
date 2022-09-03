@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2dcaff6f_002D8304_002D4651_002D8cc6_002D2ea29d1f0a0e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Square_Radius3_Answer28" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.CircleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.TriangleTests.Square_Sides565_Answer12&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.TriangleTests.Square_Sides511_Answer12&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.TriangleTests.IsRectangular_Sides345_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.TriangleTests.IsRectangular_Sides341_False&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.TriangleTests.IsRectangular_Sides344_False&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76d2952d_002D8a61_002D49c0_002D9830_002D196c86a042f6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="IsRectangular_Sides345_True" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.CircleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C7520EA2-2ABA-454B-85D6-C48310D3014D::net6.0::Square.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
