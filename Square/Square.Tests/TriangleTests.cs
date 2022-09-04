@@ -21,7 +21,7 @@ namespace Square.Tests
         }
 
         [Fact]
-        public void Square_Sides511_Answer12()
+        public void Square_Sides511_ThrowsTriangleInvalidException()
         {
             //Arrange
             Triangle CreateCirceWithNegativeRadius() => new(5, 1, 1);
